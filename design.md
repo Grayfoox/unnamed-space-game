@@ -1,5 +1,34 @@
 # design
 
+### roadmap
+tldr: make base game, then focus on one mechanic per update.
+
+base game:  
+- stars
+  - generating resources (eco/inf/rare) (rare resources needs to be automatic at star gen.)
+    - rare resources - just basic implementation (no penalty yet)
+  - capturing
+  - building ships
+  - star politic system (attack/defend planet politic wise)
+- fleet movement
+  - movement (planned movement)
+  - capturing
+  - fighting
+  - merge/divide/defend
+- group/player
+  - players in group
+  - players able to spend group resources
+  - players can send resources to other groups (trade)
+
+then focused updates on:
+- star managament
+  - simple numeric upgrades like in Neptune
+- focus tree
+- trade and diplomacy (more effects, statuses, usage of infulance)
+- technology
+- combat
+
+
 ### abstract
 focus on politics, roleplay and long term planning trough resource management.
 
@@ -59,7 +88,7 @@ the key resources for players are:
    - allows "overtake" over forgotten/abbadoned planets, allows for simple-yet-deep resource management on who and where pressure politically even in time of peace.
  - capturing/fighting
    - now - same as in neptune. higer number win, defender shoots first
-   - later - simple rock-paper-scissors ships to tie-in small bonus/lore/counterplays etc.
+   - (very later) - simple rock-paper-scissors ships to tie-in small bonus/lore/counterplays etc.
    - even later - endless space "card strategy" system, every fleet would have a "strategy" picked from available imperium list of strategies, making small changes to fleet behaviour that are very slow and hard to change 
      - things like "first strike - first round 30% more dmg , bunkerbuster - takes iniciative first againist def fleet, shield gating - if fleet would be destroyed last round, negate the damage once" etc. 
      - make the simple one first ofc.
@@ -73,7 +102,7 @@ the key resources for players are:
    - can unlock/open/progress goals for group
    - allows for snowball/catchup/burn-it-all options for every player/group
    - (much later) opens posibility for small focus tree for every player for truly deep and complex roleplay/politics
- - development/building
+ - later - development/building (neptune)
    - now - simple "economy/politics/ship building" with numbered upgrades that gets exponecionally expensive
  - ?technology
    - (later versions) make a base default research tree
