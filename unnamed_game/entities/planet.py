@@ -6,3 +6,5 @@ class Planet(Entity):
         super().__init__(x_coordinate, y_coordinate)
         self._resources = resources
         self._owner = None
+        # TODO eco/inf levels?
+        # TODO Politics (nejspíše udělat vlastní class?)

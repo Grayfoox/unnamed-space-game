@@ -16,3 +16,5 @@ class Galaxy:
 
     def get_starting_planets(self):
         return self._starting_planets
+
+    
